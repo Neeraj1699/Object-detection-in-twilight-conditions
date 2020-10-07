@@ -8,7 +8,7 @@ Object class
 X_center
 Y_center
 Normalised height and width of the bounding box
-We were able to acquire 800 images. 
+We were able to acquire 900 images. 
 We made several changes to the configuration files(yolo-obj.cfg) of the source code for this purpose. Some of the key changes include: 
 batch size
 iteration steps
