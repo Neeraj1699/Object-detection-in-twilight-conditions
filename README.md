@@ -18,5 +18,12 @@ Max classes
 Object data file
 # INNOVATIVE ABOUT US
 During testing with various datasets, we observed that YOLO v4 was not able to detect autorickshaws(commonly found vehicle on Indian roads) and confused it with trucks. 
-Given the high accuracy rate and fast speed, incorporating this class would be a huge add-on to this algorithm. So we did quite a few modifications to the original program and added a separate class for autorickshaws
+Given the high accuracy rate and fast speed, incorporating this class would be a huge add-on to this algorithm. So we did quite a few modifications to the original program and added a separate class for autorickshaws.
+# STEPS TAKEN FOR THE INNOVATION
+We trained our model on Google Colab for 2000 iterations.
+The weights files yolov4_2000.weights and yolov4_last.weights
+have been generated in the backup folder based on our custom
+training.
+We tested our classifier after annotating 900 images consisting of
+auto-rickshaws.
 
