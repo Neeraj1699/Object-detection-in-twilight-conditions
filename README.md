@@ -1,4 +1,4 @@
-# Object-detection-in-twilight-conditions
+# OBJECT DETECTION IN TWILIGHT CONDITIONS
 # AIM
 To detect a high ratio of the objects such as cars, pedestrians, trucks, autorickshaws, motorcycles, etc present in the input database.
 # METHODOLOGY
